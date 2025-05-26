@@ -24,7 +24,7 @@ SimpleSocial ist eine einfache Social-Media-Klon-Anwendung, entwickelt als Übun
 
 1. Klonen Sie das Repository:
    ```
-   git clone <Repository-URL>
+   git clone https://github.com/aryan-massoudy/social_media_clone.git
    ```
 2. Installieren Sie die Abhängigkeiten:
    ```
